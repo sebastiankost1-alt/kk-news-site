@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news.konsolenkost.de/sitemap_index.xml
